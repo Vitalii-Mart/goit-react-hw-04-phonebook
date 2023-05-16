@@ -1,6 +1,7 @@
 import styled from '@emotion/styled';
 
 export const Section = styled.section`
+  margin-top: 40px;
   max-width: 400px;
   margin-left: auto;
   margin-right: auto;
